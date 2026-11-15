@@ -347,30 +347,6 @@
       "createdAt": 1794293362928,
       "expiresAt": 1794293962928,
       "upvotes": 14
-    },
-    {
-      "id": "rep-2",
-      "lotId": "lot-c",
-      "author": "Hương Giang (K66 - Ngoại ngữ)",
-      "timeAgo": "4 phút trước",
-      "status": "green",
-      "text": "Nhà xe C còn rất nhiều chỗ ở dãy C3-C4, đường đi bộ qua A2 chỉ mất 3-4 phút, khuyên các bạn nên qua đây!",
-      "textJa": "C駐輪場はC3〜C4列にまだまだ空きがあります。A2棟まで徒歩3〜4分なのでこちらがおすすめ！",
-      "createdAt": 1794293242928,
-      "expiresAt": 1794293842928,
-      "upvotes": 21
-    },
-    {
-      "id": "rep-3",
-      "lotId": "lot-b",
-      "author": "Quang Huy (K64 - Cơ khí)",
-      "timeAgo": "7 phút trước",
-      "status": "yellow",
-      "text": "Nhà xe B sắp hết chỗ, lối vào đang có 3 xe đợi, chỉ còn vài chỗ cho xe số nhỏ.",
-      "textJa": "B駐輪場はもうすぐ満車になりそう。3台待ち、小型車用のスペースが少しだけ。",
-      "createdAt": 1794293062928,
-      "expiresAt": 1794293662928,
-      "upvotes": 8
     }
   ]
 }

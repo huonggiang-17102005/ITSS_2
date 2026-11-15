@@ -85,3 +85,4 @@ docker run -p 5000:5000 smartpark-campus
 | `POST` | `/api/reports` | Gửi Báo cáo 1 chạm (tự động hết hạn sau 10 phút và phát tín hiệu Realtime) |
 | `GET` | `/api/stream` | Server-Sent Events (SSE) để đồng bộ thay đổi giữa các máy theo thời gian thực |
 | `GET` | `/health` | Kiểm tra trạng thái hoạt động của server |
+

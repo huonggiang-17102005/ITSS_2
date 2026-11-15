@@ -24,3 +24,4 @@ COPY --from=builder /app/server ./server
 EXPOSE 5000
 
 CMD ["node", "server/index.js"]
+
